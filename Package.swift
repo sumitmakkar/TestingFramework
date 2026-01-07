@@ -16,7 +16,7 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
         .binaryTarget(
                     name: "TestingFramework",
-                    url: "https://github.com/AdobeDocs/express-embed-mobile-sdk-ios-release/releases/download/v1.0.6/embed-sdk.zip",
+                    url: "https://github.com/sumitmakkar/TestingFramework/releases/download/v0.0.0/TestingFramework.xcframework.zip",
                     checksum: "76d9360cee9fa045f0e2bf34782b6c5a29b8360be9259bfbf544ba6e29d67a09"
                 )
 
